@@ -4,7 +4,7 @@
 Plugin Name: AdminPress System
 Plugin URI: https://kingfunnel.co
 Description: Personalización del Admin en WordPress.
-Version: 1.4.0
+Version: 1.4.1
 Author: KingFunnel
 Author URI: https://kingfunnel.co
 License: GPL 2+
